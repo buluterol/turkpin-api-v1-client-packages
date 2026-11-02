@@ -1,0 +1,24 @@
+[submodule "turkpin-php"]
+	path = turkpin-php
+	url = https://github.com/buluterol/turkpin-php.git
+[submodule "turkpin-node"]
+	path = turkpin-node
+	url = https://github.com/buluterol/turkpin-node.git
+[submodule "turkpin-python"]
+	path = turkpin-python
+	url = https://github.com/buluterol/turkpin-python.git
+[submodule "turkpin-go"]
+	path = turkpin-go
+	url = https://github.com/buluterol/turkpin-go.git
+[submodule "turkpin-java"]
+	path = turkpin-java
+	url = https://github.com/buluterol/turkpin-java.git
+[submodule "turkpin-dotnet"]
+	path = turkpin-dotnet
+	url = https://github.com/buluterol/turkpin-dotnet.git
+[submodule "turkpin-ruby"]
+	path = turkpin-ruby
+	url = https://github.com/buluterol/turkpin-ruby.git
+[submodule "turkpin-rust"]
+	path = turkpin-rust
+	url = https://github.com/buluterol/turkpin-rust.git
